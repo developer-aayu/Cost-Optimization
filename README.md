@@ -63,3 +63,4 @@ Your Lambda functions are now set up to run on a schedule defined by your CloudW
 
 For further details, refer to the individual files.
 
+will add more resources in future
